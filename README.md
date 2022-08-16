@@ -39,11 +39,11 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
+👤 **Koami NOGBEDJI**
 
 - GitHub: [@hopeforkoami](https://github.com/hopeforkoami)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/koami-nogbedji-a155b7233)
+- Twitter: [@KNogbedji](https://twitter.com/KNogbedji)
+- LinkedIn: [koami-nogbedji-a155b7233](https://linkedin.com/in/koami-nogbedji-a155b7233)
 
 ## 🤝 Contributing
 
