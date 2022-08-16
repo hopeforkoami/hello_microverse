@@ -1,15 +1,13 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Hello Microverse
 
-> Description the project.
+> this is my hello microverse project.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- html css
 
 ## Live Demo (if available)
 
